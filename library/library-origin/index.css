@@ -1,0 +1,63 @@
+.btn.btn-sm {
+    margin-top: 20px;
+    position: relative;
+    left: 30%;
+    transform: translate(-15%);
+    padding: 10px 40px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(73, 73, 73);
+    transition: 0.5s;
+}
+
+.btn.btn-sm:hover {
+    color: rgb(73, 73, 73);
+    border: 1px solid black;
+    background-color: white;
+}
+
+.card-text {
+    margin-bottom: 30px;
+}
+
+.rounded {
+    margin-top: 50px;
+    height: 600px;
+}
+
+.btn.btn-primary {
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: rgb(50, 49, 49);
+    padding: 10px 400px;
+}
+
+.row {
+    margin-left: -15px;
+}
+
+.price-filter-range {
+    margin-left: 50%;
+}
+
+.slider-box {
+    width: 90%;
+    margin: 25px auto
+}
+
+label,
+input {
+    border: none;
+    display: inline-block;
+    margin-right: -4px;
+    vertical-align: top;
+    width: 30%
+}
+
+input {
+    width: 70%
+}
+
+.slider {
+    margin: 25px 0
+}
